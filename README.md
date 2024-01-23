@@ -7,6 +7,8 @@
 - [Notebook para el análisis de datos de X](https://colab.research.google.com/drive/1Y2hMdwIz8eFYLYe23F7hqq7rRhKtQ_8K?usp=sharing)
 - [Notebook para el análisis de datos de Instagram](https://colab.research.google.com/drive/1nWZomBArvU0KRhRPz197PxotDUczRatt?usp=sharing)
 - [Notebook para el análisis de datos de TikTok](https://colab.research.google.com/drive/1So4SnQlOztr9le3FYQTgpQNtpJFBZTCf?usp=sharing)
+- [Spotify Artist Network](https://labs.polsys.net/playground/spotify/)
+- [YouTube Data Tools](https://ytdt.digitalmethods.net/index.php)
 
 ## Otros recursos
 - [Datos masivos y minería de datos sociales: conceptos y herramientas básicas](https://jordimorales.com/wp-content/uploads/2021/07/Datos-masivos.pdf)
