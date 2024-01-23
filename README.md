@@ -3,6 +3,7 @@
 - [Presentación del curso](https://github.com/jmoralesigras/curso-master-24/files/14024740/TALLER.MASTER.2024.POST.API.pdf)
 - [Proyecto Zeeschuimmer (DMI-TCAT)](https://github.com/digitalmethodsinitiative/zeeschuimer)
 - [Fox Scroller (Addon para Firefox)](https://addons.mozilla.org/es/firefox/addon/foxscroller/)
+- [Datos](https://github.com/jmoralesigras/curso-master-24/files/14027585/Downloads.zip)
 - [Gephi](https://gephi.org/)
 - [Notebook para el análisis de datos de X](https://colab.research.google.com/drive/1Y2hMdwIz8eFYLYe23F7hqq7rRhKtQ_8K?usp=sharing)
 - [Notebook para el análisis de datos de Instagram](https://colab.research.google.com/drive/1nWZomBArvU0KRhRPz197PxotDUczRatt?usp=sharing)
