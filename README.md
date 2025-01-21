@@ -1,6 +1,6 @@
 # Taller de Análisis de Redes Sociales (ARS/SNA) aplicado a Datos Masivos (Big Data).
 ## Recursos del taller
-- [Presentación del curso](https://github.com/jmoralesigras/curso-master-24/files/14024740/TALLER.MASTER.2024.POST.API.pdf)
+- [Presentación del curso](https://github.com/user-attachments/files/18486644/TALLER.MASTER.2025.pdf)
 - [Proyecto Zeeschuimmer (DMI-TCAT)](https://github.com/digitalmethodsinitiative/zeeschuimer)
 - [Fox Scroller (Addon para Firefox)](https://addons.mozilla.org/es/firefox/addon/foxscroller/)
 - [Datos](https://github.com/jmoralesigras/curso-master-24/files/14027585/Downloads.zip)
